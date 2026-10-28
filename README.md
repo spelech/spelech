@@ -94,14 +94,14 @@ flowchart TD
 <!-- RECENT_ACTIVITY:START -->
 | Repository | Primary Stack | Docs | Last Push (UTC) | Description |
 | :--- | :---: | :---: | :---: | :--- |
-| **[LocalLLMServerManager](https://github.com/spelech/LocalLLMServerManager)** | `C#` | [Docs](https://spelech.github.io/LocalLLMServerManager/) | `2026-10-28` | C# / .NET management service and API for orchestrating local LLM backends, model routing, and GPU resource allocation. |
+| **[NelkoP21WebPrint](https://github.com/spelech/NelkoP21WebPrint)** | `TypeScript` | — | `2026-10-28` | React and TypeScript interactive web canvas and thermal label design engine for Nelko P21 & ESC/POS Bluetooth printers. |
+| **[GoogleAssistantEntityConsole](https://github.com/spelech/GoogleAssistantEntityConsole)** | `Python` | — | `2026-10-28` | Web interface and API console for inspecting, configuring, and testing Home Assistant Google Assistant entity exposures. |
 | **[contextcortex](https://github.com/spelech/contextcortex)** | `Python` | [Docs](https://spelech.github.io/contextcortex/) | `2026-10-28` | High-performance Model Context Protocol (MCP) server providing deep codebase indexing, AST analysis, and memory context. |
-| **[RigSwitch](https://github.com/spelech/RigSwitch)** | `C#` | [Docs](https://spelech.github.io/RigSwitch/) | `2026-10-28` | Native Windows system tray control plane and workstation orchestrator for instant profile switching between desk and sim-rig. |
+| **[ha-google-home-bt-proxy](https://github.com/spelech/ha-google-home-bt-proxy)** | `Python` | — | `2026-10-28` | Home Assistant custom integration turning Google Home and Nest smart speakers into active Bluetooth proxies for device tracking. |
+| **[llmlite-modelmanager](https://github.com/spelech/llmlite-modelmanager)** | `Python` | — | `2026-10-28` | Lightweight Python orchestration layer for local LLM deployments, model lifecycle switching, and health monitoring. |
 | **[CLIAgentDispatch](https://github.com/spelech/CLIAgentDispatch)** | `Python` | — | `2026-10-28` | Universal headless and CLI AI agent delegation gateway bridging local execution engines with FastMCP. |
-| **[ha-shade-complete](https://github.com/spelech/ha-shade-complete)** | `Python` | — | `2026-10-27` | Comprehensive Home Assistant integration for motorized shades: sun tracking, virtual tilt entities, and adaptive battery calibration. |
-| **[sure-companion](https://github.com/spelech/sure-companion)** | `TypeScript` | — | `2026-10-27` | Decoupled companion sidecar for Sure: vendor normalization, canonical categorization, and privacy-bounded receipt extraction |
-| **[ha-presence-detection-designer](https://github.com/spelech/ha-presence-detection-designer)** | `Python` | — | `2026-10-27` | Home Assistant custom integration combining Wasp-in-a-Box presence, entity condition matrices, and VLM/LLM snapshot verification. |
-| **[model-context-gateway](https://github.com/spelech/model-context-gateway)** | `C#` | [Docs](https://spelech.github.io/model-context-gateway/) | `2026-10-27` | C# ASP.NET Core Gateway Router, OAuth 2.0 Provider, and Semantic Tool Catalog for Model Context Protocol (MCP) servers. |
+| **[mcp-scout](https://github.com/spelech/mcp-scout)** | `Python` | — | `2026-10-28` | Active Docker container discovery, protocol handshake prober, and compose label injector for Model Context Protocol (MCP). |
+| **[StickerPipeline](https://github.com/spelech/StickerPipeline)** | `Python` | — | `2026-10-28` | Automated Python image processing engine for contour tracing, stroke generation, and die-cut sticker preparation. |
 <!-- RECENT_ACTIVITY:END -->
 
 ---
