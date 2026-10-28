@@ -17,17 +17,17 @@ Software & Systems Engineer focused on **Model Context Protocol (MCP) infrastruc
 
 ---
 
-## Quick Category Filters
+## Browse by Category (Star Lists & Topic Filters)
 
-Click any category filter below to browse repositories tagged by domain:
-
-* [**AI, LLM & MCP (`cat-ai-mcp`)**](https://github.com/spelech?tab=repositories&q=topic%3Acat-ai-mcp)
-* [**Smart Home & IoT (`cat-smart-home`)**](https://github.com/spelech?tab=repositories&q=topic%3Acat-smart-home)
-* [**Homelab & Infrastructure (`cat-homelab`)**](https://github.com/spelech?tab=repositories&q=topic%3Acat-homelab)
-* [**Sim Racing, VR & Hardware (`cat-sim-rig`)**](https://github.com/spelech?tab=repositories&q=topic%3Acat-sim-rig)
-* [**Personal Finance (`cat-finance`)**](https://github.com/spelech?tab=repositories&q=topic%3Acat-finance)
-* [**CAD, 3D & Thermal Printing (`cat-cad-print`)**](https://github.com/spelech?tab=repositories&q=topic%3Acat-cad-print)
-* [**UI/UX & Developer Tooling (`cat-devtools`)**](https://github.com/spelech?tab=repositories&q=topic%3Acat-devtools)
+| Category | Curated List (Folder View) | Topic Filter |
+| :--- | :--- | :--- |
+| **AI, LLM & MCP** | [stars/spelech/lists/ai-llm-mcp](https://github.com/stars/spelech/lists/ai-llm-mcp) | [`topic:cat-ai-mcp`](https://github.com/spelech?tab=repositories&q=topic%3Acat-ai-mcp) |
+| **Smart Home & IoT** | [stars/spelech/lists/smart-home-iot](https://github.com/stars/spelech/lists/smart-home-iot) | [`topic:cat-smart-home`](https://github.com/spelech?tab=repositories&q=topic%3Acat-smart-home) |
+| **Homelab & Infrastructure** | [stars/spelech/lists/homelab-infrastructure](https://github.com/stars/spelech/lists/homelab-infrastructure) | [`topic:cat-homelab`](https://github.com/spelech?tab=repositories&q=topic%3Acat-homelab) |
+| **Sim Racing, VR & Hardware** | [stars/spelech/lists/sim-racing-hardware](https://github.com/stars/spelech/lists/sim-racing-hardware) | [`topic:cat-sim-rig`](https://github.com/spelech?tab=repositories&q=topic%3Acat-sim-rig) |
+| **Personal Finance** | [stars/spelech/lists/personal-finance](https://github.com/stars/spelech/lists/personal-finance) | [`topic:cat-finance`](https://github.com/spelech?tab=repositories&q=topic%3Acat-finance) |
+| **CAD, 3D & Thermal Printing** | [stars/spelech/lists/cad-3d-printing](https://github.com/stars/spelech/lists/cad-3d-printing) | [`topic:cat-cad-print`](https://github.com/spelech?tab=repositories&q=topic%3Acat-cad-print) |
+| **UI/UX & Developer Tooling** | [stars/spelech/lists/ui-ux-devtools](https://github.com/stars/spelech/lists/ui-ux-devtools) | [`topic:cat-devtools`](https://github.com/spelech?tab=repositories&q=topic%3Acat-devtools) |
 
 ---
 
