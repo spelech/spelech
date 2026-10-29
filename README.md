@@ -94,14 +94,14 @@ flowchart TD
 <!-- RECENT_ACTIVITY:START -->
 | Repository | Primary Stack | Docs | Last Push (UTC) | Description |
 | :--- | :---: | :---: | :---: | :--- |
+| **[agent-preview-hub](https://github.com/spelech/agent-preview-hub)** | `Python` | — | `2026-10-29` | Self-hosted interactive preview hub, Mermaid studio, and Markdown/Diff renderer for AI coding agents. |
+| **[contextcortex](https://github.com/spelech/contextcortex)** | `Python` | [Docs](https://spelech.github.io/contextcortex/) | `2026-10-28` | High-performance Model Context Protocol (MCP) server providing deep codebase indexing, AST analysis, and memory context. |
 | **[NelkoP21WebPrint](https://github.com/spelech/NelkoP21WebPrint)** | `TypeScript` | — | `2026-10-28` | React and TypeScript interactive web canvas and thermal label design engine for Nelko P21 & ESC/POS Bluetooth printers. |
 | **[GoogleAssistantEntityConsole](https://github.com/spelech/GoogleAssistantEntityConsole)** | `Python` | — | `2026-10-28` | Web interface and API console for inspecting, configuring, and testing Home Assistant Google Assistant entity exposures. |
-| **[contextcortex](https://github.com/spelech/contextcortex)** | `Python` | [Docs](https://spelech.github.io/contextcortex/) | `2026-10-28` | High-performance Model Context Protocol (MCP) server providing deep codebase indexing, AST analysis, and memory context. |
 | **[ha-google-home-bt-proxy](https://github.com/spelech/ha-google-home-bt-proxy)** | `Python` | — | `2026-10-28` | Home Assistant custom integration turning Google Home and Nest smart speakers into active Bluetooth proxies for device tracking. |
 | **[llmlite-modelmanager](https://github.com/spelech/llmlite-modelmanager)** | `Python` | — | `2026-10-28` | Lightweight Python orchestration layer for local LLM deployments, model lifecycle switching, and health monitoring. |
 | **[CLIAgentDispatch](https://github.com/spelech/CLIAgentDispatch)** | `Python` | — | `2026-10-28` | Universal headless and CLI AI agent delegation gateway bridging local execution engines with FastMCP. |
 | **[mcp-scout](https://github.com/spelech/mcp-scout)** | `Python` | — | `2026-10-28` | Active Docker container discovery, protocol handshake prober, and compose label injector for Model Context Protocol (MCP). |
-| **[StickerPipeline](https://github.com/spelech/StickerPipeline)** | `Python` | — | `2026-10-28` | Automated Python image processing engine for contour tracing, stroke generation, and die-cut sticker preparation. |
 <!-- RECENT_ACTIVITY:END -->
 
 ---
