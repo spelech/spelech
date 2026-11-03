@@ -94,14 +94,14 @@ flowchart TD
 <!-- RECENT_ACTIVITY:START -->
 | Repository | Primary Stack | Docs | Last Push (UTC) | Description |
 | :--- | :---: | :---: | :---: | :--- |
-| **[gmessage-rag](https://github.com/spelech/gmessage-rag)** | `Go` | [Docs](https://spelech.github.io/gmessage-rag/) | `2026-11-02` | Real-time Google Messages ingestion, content-addressed media storage, Living Dossiers, agent-native MCP server, and home automation alerting \| Docs: https://spelech.github.io/gmessage-rag/ |
+| **[gmessage-rag](https://github.com/spelech/gmessage-rag)** | `Go` | [Docs](https://spelech.github.io/gmessage-rag/) | `2026-11-03` | Real-time Google Messages ingestion, content-addressed media storage, Living Dossiers, agent-native MCP server, and home automation alerting \| Docs: https://spelech.github.io/gmessage-rag/ |
+| **[LocalLLMServerManager](https://github.com/spelech/LocalLLMServerManager)** | `C#` | [Docs](https://spelech.github.io/LocalLLMServerManager/) | `2026-11-03` | C# / .NET management service and API for orchestrating local LLM backends, model routing, and GPU resource allocation. |
+| **[llmlite-modelmanager](https://github.com/spelech/llmlite-modelmanager)** | `Python` | — | `2026-11-03` | Lightweight Python orchestration layer for local LLM deployments, model lifecycle switching, and health monitoring. |
+| **[agent-preview-hub](https://github.com/spelech/agent-preview-hub)** | `Python` | — | `2026-11-03` | Self-hosted interactive preview hub, Mermaid studio, and Markdown/Diff renderer for AI coding agents. |
 | **[curatarr](https://github.com/spelech/curatarr)** | `TypeScript` | [Docs](https://spelech.github.io/curatarr/) | `2026-11-02` | Intelligent media library auditing, duplicate detection, and decluttering platform for Plex, Tautulli, Sonarr, and Radarr. |
 | **[ha-presence-detection-designer](https://github.com/spelech/ha-presence-detection-designer)** | `Python` | — | `2026-11-02` | Home Assistant custom integration combining Wasp-in-a-Box presence, entity condition matrices, and VLM/LLM snapshot verification. |
 | **[RigSwitch](https://github.com/spelech/RigSwitch)** | `C#` | [Docs](https://spelech.github.io/RigSwitch/) | `2026-11-01` | Native Windows system tray control plane and workstation orchestrator for instant profile switching between desk and sim-rig. |
-| **[LocalLLMServerManager](https://github.com/spelech/LocalLLMServerManager)** | `C#` | [Docs](https://spelech.github.io/LocalLLMServerManager/) | `2026-11-01` | C# / .NET management service and API for orchestrating local LLM backends, model routing, and GPU resource allocation. |
 | **[CLIAgentDispatch](https://github.com/spelech/CLIAgentDispatch)** | `Python` | — | `2026-10-31` | Universal headless and CLI AI agent delegation gateway bridging local execution engines with FastMCP. |
-| **[model-context-gateway](https://github.com/spelech/model-context-gateway)** | `C#` | [Docs](https://spelech.github.io/model-context-gateway/) | `2026-10-30` | C# ASP.NET Core Gateway Router, OAuth 2.0 Provider, and Semantic Tool Catalog for Model Context Protocol (MCP) servers. |
-| **[agent-preview-hub](https://github.com/spelech/agent-preview-hub)** | `Python` | — | `2026-10-29` | Self-hosted interactive preview hub, Mermaid studio, and Markdown/Diff renderer for AI coding agents. |
 <!-- RECENT_ACTIVITY:END -->
 
 ---
