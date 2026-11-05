@@ -94,8 +94,8 @@ flowchart TD
 <!-- RECENT_ACTIVITY:START -->
 | Repository | Primary Stack | Docs | Last Push (UTC) | Description |
 | :--- | :---: | :---: | :---: | :--- |
-| **[gmessage-rag](https://github.com/spelech/gmessage-rag)** | `Go` | [Docs](https://spelech.github.io/gmessage-rag/) | `2026-11-03` | Real-time Google Messages ingestion, content-addressed media storage, Living Dossiers, agent-native MCP server, and home automation alerting \| Docs: https://spelech.github.io/gmessage-rag/ |
-| **[ha-presence-detection-designer](https://github.com/spelech/ha-presence-detection-designer)** | `Python` | — | `2026-11-03` | Home Assistant custom integration combining Wasp-in-a-Box presence, entity condition matrices, and VLM/LLM snapshot verification. |
+| **[gmessage-rag](https://github.com/spelech/gmessage-rag)** | `Go` | [Docs](https://spelech.github.io/gmessage-rag/) | `2026-11-05` | Real-time Google Messages ingestion, content-addressed media storage, Living Dossiers, agent-native MCP server, and home automation alerting \| Docs: https://spelech.github.io/gmessage-rag/ |
+| **[ha-presence-detection-designer](https://github.com/spelech/ha-presence-detection-designer)** | `Python` | — | `2026-11-05` | Home Assistant custom integration combining Wasp-in-a-Box presence, entity condition matrices, and VLM/LLM snapshot verification. |
 | **[LocalLLMServerManager](https://github.com/spelech/LocalLLMServerManager)** | `C#` | [Docs](https://spelech.github.io/LocalLLMServerManager/) | `2026-11-03` | C# / .NET management service and API for orchestrating local LLM backends, model routing, and GPU resource allocation. |
 | **[llmlite-modelmanager](https://github.com/spelech/llmlite-modelmanager)** | `Python` | — | `2026-11-03` | Lightweight Python orchestration layer for local LLM deployments, model lifecycle switching, and health monitoring. |
 | **[agent-preview-hub](https://github.com/spelech/agent-preview-hub)** | `Python` | — | `2026-11-03` | Self-hosted interactive preview hub, Mermaid studio, and Markdown/Diff renderer for AI coding agents. |
