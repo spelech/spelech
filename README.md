@@ -94,8 +94,8 @@ flowchart TD
 <!-- RECENT_ACTIVITY:START -->
 | Repository | Primary Stack | Docs | Last Push (UTC) | Description |
 | :--- | :---: | :---: | :---: | :--- |
-| **[model-context-gateway](https://github.com/spelech/model-context-gateway)** | `C#` | [Docs](https://spelech.github.io/model-context-gateway/) | `2026-11-13` | C# ASP.NET Core Gateway Router, OAuth 2.0 Provider, and Semantic Tool Catalog for Model Context Protocol (MCP) servers. |
 | **[contextcortex](https://github.com/spelech/contextcortex)** | `Python` | [Docs](https://spelech.github.io/contextcortex/) | `2026-11-13` | High-performance Model Context Protocol (MCP) server providing deep codebase indexing, AST analysis, and memory context. |
+| **[model-context-gateway](https://github.com/spelech/model-context-gateway)** | `C#` | [Docs](https://spelech.github.io/model-context-gateway/) | `2026-11-13` | C# ASP.NET Core Gateway Router, OAuth 2.0 Provider, and Semantic Tool Catalog for Model Context Protocol (MCP) servers. |
 | **[ha-presence-detection-designer](https://github.com/spelech/ha-presence-detection-designer)** | `Python` | — | `2026-11-10` | Home Assistant custom integration combining Wasp-in-a-Box presence, entity condition matrices, and VLM/LLM snapshot verification. |
 | **[LocalLLMServerManager](https://github.com/spelech/LocalLLMServerManager)** | `C#` | [Docs](https://spelech.github.io/LocalLLMServerManager/) | `2026-11-08` | C# / .NET management service and API for orchestrating local LLM backends, model routing, and GPU resource allocation. |
 | **[llmlite-modelmanager](https://github.com/spelech/llmlite-modelmanager)** | `Python` | — | `2026-11-06` | Lightweight Python orchestration layer for local LLM deployments, model lifecycle switching, and health monitoring. |
