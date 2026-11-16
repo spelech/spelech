@@ -94,6 +94,7 @@ flowchart TD
 <!-- RECENT_ACTIVITY:START -->
 | Repository | Primary Stack | Docs | Last Push (UTC) | Description |
 | :--- | :---: | :---: | :---: | :--- |
+| **[curatarr](https://github.com/spelech/curatarr)** | `TypeScript` | [Docs](https://spelech.github.io/curatarr/) | `2026-11-16` | Intelligent media library auditing, duplicate detection, and decluttering platform for Plex, Tautulli, Sonarr, and Radarr. |
 | **[ha-presence-detection-designer](https://github.com/spelech/ha-presence-detection-designer)** | `Python` | — | `2026-11-15` | Home Assistant custom integration combining Wasp-in-a-Box presence, entity condition matrices, and VLM/LLM snapshot verification. |
 | **[LocalLLMServerManager](https://github.com/spelech/LocalLLMServerManager)** | `C#` | [Docs](https://spelech.github.io/LocalLLMServerManager/) | `2026-11-15` | C# / .NET management service and API for orchestrating local LLM backends, model routing, and GPU resource allocation. |
 | **[VaultWardenCredSync](https://github.com/spelech/VaultWardenCredSync)** | `Python` | — | `2026-11-15` | Automated credential synchronization service integrating Vaultwarden API with internal homelab authentication and scripts. |
@@ -101,7 +102,6 @@ flowchart TD
 | **[sure-companion](https://github.com/spelech/sure-companion)** | `TypeScript` | — | `2026-11-15` | Decoupled companion sidecar for Sure: vendor normalization, canonical categorization, and privacy-bounded receipt extraction |
 | **[model-context-gateway](https://github.com/spelech/model-context-gateway)** | `C#` | [Docs](https://spelech.github.io/model-context-gateway/) | `2026-11-14` | C# ASP.NET Core Gateway Router, OAuth 2.0 Provider, and Semantic Tool Catalog for Model Context Protocol (MCP) servers. |
 | **[contextcortex](https://github.com/spelech/contextcortex)** | `Python` | [Docs](https://spelech.github.io/contextcortex/) | `2026-11-13` | High-performance Model Context Protocol (MCP) server providing deep codebase indexing, AST analysis, and memory context. |
-| **[llmlite-modelmanager](https://github.com/spelech/llmlite-modelmanager)** | `Python` | — | `2026-11-06` | Lightweight Python orchestration layer for local LLM deployments, model lifecycle switching, and health monitoring. |
 <!-- RECENT_ACTIVITY:END -->
 
 ---
