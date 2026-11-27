@@ -94,14 +94,14 @@ flowchart TD
 <!-- RECENT_ACTIVITY:START -->
 | Repository | Primary Stack | Docs | Last Push (UTC) | Description |
 | :--- | :---: | :---: | :---: | :--- |
-| **[ha-presence-detection-designer](https://github.com/spelech/ha-presence-detection-designer)** | `Python` | — | `2026-11-26` | Home Assistant custom integration combining Wasp-in-a-Box presence, entity condition matrices, and VLM/LLM snapshot verification. |
+| **[ha-presence-detection-designer](https://github.com/spelech/ha-presence-detection-designer)** | `Python` | — | `2026-11-27` | Home Assistant custom integration combining Wasp-in-a-Box presence, entity condition matrices, and VLM/LLM snapshot verification. |
+| **[GoogleAssistantEntityConsole](https://github.com/spelech/GoogleAssistantEntityConsole)** | `Python` | — | `2026-11-27` | Web interface and API console for inspecting, configuring, and testing Home Assistant Google Assistant entity exposures. |
+| **[model-context-gateway](https://github.com/spelech/model-context-gateway)** | `C#` | [Docs](https://spelech.github.io/model-context-gateway/) | `2026-11-27` | C# ASP.NET Core Gateway Router, OAuth 2.0 Provider, and Semantic Tool Catalog for Model Context Protocol (MCP) servers. |
+| **[agent-preview-hub](https://github.com/spelech/agent-preview-hub)** | `Python` | — | `2026-11-26` | Self-hosted interactive preview hub, Mermaid studio, and Markdown/Diff renderer for AI coding agents. |
 | **[contextcortex](https://github.com/spelech/contextcortex)** | `Python` | [Docs](https://spelech.github.io/contextcortex/) | `2026-11-25` | High-performance Model Context Protocol (MCP) server providing deep codebase indexing, AST analysis, and memory context. |
 | **[ha-google-home-bt-proxy](https://github.com/spelech/ha-google-home-bt-proxy)** | `Python` | — | `2026-11-25` | Home Assistant custom integration turning Google Home and Nest smart speakers into active Bluetooth proxies for device tracking. |
 | **[CLIAgentDispatch](https://github.com/spelech/CLIAgentDispatch)** | `Python` | — | `2026-11-24` | Universal headless and CLI AI agent delegation gateway bridging local execution engines with FastMCP. |
-| **[model-context-gateway](https://github.com/spelech/model-context-gateway)** | `C#` | [Docs](https://spelech.github.io/model-context-gateway/) | `2026-11-24` | C# ASP.NET Core Gateway Router, OAuth 2.0 Provider, and Semantic Tool Catalog for Model Context Protocol (MCP) servers. |
 | **[curatarr](https://github.com/spelech/curatarr)** | `TypeScript` | [Docs](https://spelech.github.io/curatarr/) | `2026-11-23` | Intelligent media library auditing, duplicate detection, and decluttering platform for Plex, Tautulli, Sonarr, and Radarr. |
-| **[LocalLLMServerManager](https://github.com/spelech/LocalLLMServerManager)** | `C#` | [Docs](https://spelech.github.io/LocalLLMServerManager/) | `2026-11-22` | C# / .NET management service and API for orchestrating local LLM backends, model routing, and GPU resource allocation. |
-| **[VaultWardenCredSync](https://github.com/spelech/VaultWardenCredSync)** | `Python` | — | `2026-11-15` | Automated credential synchronization service integrating Vaultwarden API with internal homelab authentication and scripts. |
 <!-- RECENT_ACTIVITY:END -->
 
 ---
